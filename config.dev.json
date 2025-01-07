@@ -27,6 +27,9 @@
   },
   "nickNameBot": "『=』➡︎ 『 Ｏｗｎｅｒ 』 𝕮𝖍𝖆𝖎𝖟𝖊𝖓 𝕲𝖔𝖆𝖙𝖇𝖔𝖙𝗩𝟮",
   "prefix": "=",
+  "ownerName": "𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡",
+  "age": "17 YEARS OLD",
+  "telent": "PROGRAMMER CODDING",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
