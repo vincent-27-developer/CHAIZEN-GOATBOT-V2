@@ -2,7 +2,7 @@
   "commandBanned": {},
   "envGlobal": {
     "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
-    "goatbotApikey": ""
+    "goatbotApikey": "git clone https://github.com/ntkhang03/Goat-Bot-V2 && cp -r Goat-Bot-V2/. . && rm -rf Goat-Bot-V2"
   },
   "envCommands": {
     "daily": {
