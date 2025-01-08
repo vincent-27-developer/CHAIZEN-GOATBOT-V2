@@ -4,7 +4,7 @@ const { resolve } = require("path");
 
 module.exports = {
 	config: {
-		name: "sendnoti2",
+		name: "sendnoti",
 		version: "1.4",
 		author: "Vincent Armenion",
 		countDown: 5,
@@ -21,7 +21,7 @@ module.exports = {
 	},
 
 	onStart: async function ({ api, event, args }) {
-		if (this.config.author !== "𝗩𝗜𝗡𝗖𝗘𝗡𝗧") {
+		if (this.config.author !== "cliff") {
 			return api.sendMessage(
 				`[ 𝗔𝗡𝗧𝗜 𝗖𝗛𝗔𝗡𝗚𝗘 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 ]
 				𝗔𝗗𝗠𝗜𝗡 𝗠𝗘𝗦𝗦𝗔𝗚𝗘: 
@@ -29,7 +29,7 @@ module.exports = {
 				𝗠𝗘𝗠𝗕𝗘𝗥 𝗠𝗘𝗦𝗦𝗔𝗚𝗘:
 				𝚃𝚑𝚒𝚜 𝚋𝚘𝚝 𝚌𝚛𝚎𝚊𝚝𝚘𝚛 𝚒𝚜 𝚊 𝚌𝚑𝚊𝚗𝚐𝚎 𝚌𝚛𝚎𝚍𝚒𝚝𝚘𝚛 𝚔𝚊𝚢𝚊 𝚋𝚎 𝚊𝚠𝚊𝚛𝚎 𝚗𝚎𝚡𝚝 𝚝𝚒𝚖𝚎.
 				𝗢𝗪𝗡𝗘𝗥 𝗢𝗙 𝗧𝗛𝗜𝗦 𝗖𝗢𝗠𝗠𝗔𝗡𝗗: 
-https://www.facebook.com/profile.php?id=100090775159086`,
+https://www.facebook.com/swordigo.swordslush`,
 				event.threadID,
 				event.messageID
 			);
@@ -42,11 +42,7 @@ https://www.facebook.com/profile.php?id=100090775159086`,
 		async function sendMessage(thread) {
 			try {
 				await api.sendMessage(
-					`𝙉𝙊𝙏𝙄𝘾𝙀 𝙁𝙍𝙊𝙈 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍 
-------------------------------- 
-『𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘕𝘢𝘮𝘦』:𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡
------------------------------- 
-『𝗡𝗼𝘁𝗶𝗰𝗲』${custom}`,
+					`➜ 𝗡𝗢𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡 𝗙𝗥𝗢𝗠 𝗔𝗗𝗠𝗜𝗡\n◈════━━━◈✧◈━━━════◈\n➜ ${custom}`,
 					thread.threadID
 				);
 				sentCount++;
