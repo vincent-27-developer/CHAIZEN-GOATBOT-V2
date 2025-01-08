@@ -1,4 +1,4 @@
-=Cmd install ai.js const moment = require("moment-timezone");
+const moment = require("moment-timezone");
 const manilaTime = moment.tz('Asia/Manila');
 const formattedDateTime = manilaTime.format('MMMM D, YYYY h:mm A');
  const axios = require('axios');
