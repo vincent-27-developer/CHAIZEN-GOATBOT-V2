@@ -1,4 +1,4 @@
-const moment = require('moment-timezone');
+ const moment = require('moment-timezone');
 const axios = require('axios');
 
 module.exports.config = {
