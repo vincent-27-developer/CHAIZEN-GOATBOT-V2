@@ -3,7 +3,7 @@ const { utils } = global;
 
 module.exports = {
 	config: {
-		name: "prefix2",
+		name: "prefix",
 		version: "1.4",
 		author: "Vincent",
 		countDown: 5,
