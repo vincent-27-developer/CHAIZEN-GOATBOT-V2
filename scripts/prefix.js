@@ -45,7 +45,7 @@ module.exports = {
 			confirmThisThread: "Please react to this message to confirm change prefix in your box chat",
 			successGlobal: "Changed prefix of system bot to: %1",
 			successThisThread: "Changed prefix in your box chat to: %1",
-			myPrefix: "  𝗛𝗘𝗟𝗟𝗢 𝗜 𝗔𝗠 𝗬𝗔𝗡𝗭𝗘𝗡 𝗕𝗢𝗧 𝗠𝗬 𝗣𝗥𝗘𝗙𝗜𝗫 𝗜𝗦???\n⚙️ System prefix: %1\n💬 Your box chat prefix: %2\n❖ ── ✦ ──『✙』── ✦  ❖\n📌𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘??\n 1: ➡︎Ai\n 2: ➡︎ʙʟᴀᴄᴋʙᴏx\n 3: ➡︎ᴘʀᴇғɪx\n 4: ➡︎ʜᴇʟᴘ\n 5: ➡︎ᴜᴘᴛɪᴍᴇ\n 6: ➡︎ᴜᴘᴛɪᴍᴇ2\n 7: ➡︎sᴘʏ\n 8: ➡︎ᴘɪɴᴛᴇʀᴇsᴛ\n 9: ➡︎ᴍᴜsɪᴄ\n10: ➡︎sɪɴɢ\n11: ➡︎ʟʏʀɪᴄs\n12: ➡︎ᴘʟᴀʏ\n13: ➡︎sɪᴍ\n14: ➡︎ᴄᴀʟʟᴀᴅ\n15: ➡︎ʙᴀʟᴀɴᴄᴇ\n16: ➡︎ɢᴇᴍɪɴɪ\n17: ➡︎ʙᴀʀᴅ\n18: ➡︎ɢᴇɴ\n19: ➡︎ᴛᴇᴍᴘʜᴀɪʟ\n20: ➡︎ᴏᴡɴᴇʀ\n❖ ── ✦ ──『✙』── ✦ ── ❖\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥:  𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 【 𝗔𝗜 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥 】"
+			myPrefix: "  𝗛𝗘𝗟𝗟𝗢 𝗜 𝗔𝗠 𝗖𝗛𝗔𝗜𝗭𝗘𝗡 𝗕𝗢𝗧 𝗠𝗬 𝗣𝗥𝗘𝗙𝗜𝗫 𝗜𝗦???\n⚙️ System prefix: %1\n💬 Your box chat prefix: %2\n❖ ── ✦ ──『✙』── ✦  ❖\n📌𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘??\n 1: ➡︎Ai\n 2: ➡︎ʙʟᴀᴄᴋʙᴏx\n 3: ➡︎ᴘʀᴇғɪx\n 4: ➡︎ʜᴇʟᴘ\n 5: ➡︎ᴜᴘᴛɪᴍᴇ\n 6: ➡︎ᴜᴘᴛɪᴍᴇ2\n 7: ➡︎sᴘʏ\n 8: ➡︎ᴘɪɴᴛᴇʀᴇsᴛ\n 9: ➡︎ᴍᴜsɪᴄ\n10: ➡︎sɪɴɢ\n11: ➡︎ʟʏʀɪᴄs\n12: ➡︎ᴘʟᴀʏ\n13: ➡︎sɪᴍ\n14: ➡︎ᴄᴀʟʟᴀᴅ\n15: ➡︎ʙᴀʟᴀɴᴄᴇ\n16: ➡︎ɢᴇᴍɪɴɪ\n17: ➡︎ʙᴀʀᴅ\n18: ➡︎ɢᴇɴ\n19: ➡︎ᴛᴇᴍᴘʜᴀɪʟ\n20: ➡︎ᴏᴡɴᴇʀ\n❖ ── ✦ ──『✙』── ✦ ── ❖\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥:  𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 【 𝗔𝗜 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥 】"
 		}
 	},
 
