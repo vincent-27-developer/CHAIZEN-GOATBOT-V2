@@ -17,16 +17,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "",
-    ""
+    "100090775159086",
+    "61569485262394"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your_Bot_Name",
-  "prefix": "/",
+  "nickNameBot": "『=』➡︎ 『 Ｏｗｎｅｒ 』 𝕮𝖍𝖆𝖎𝖟𝖊𝖓 𝕲𝖔𝖆𝖙𝖇𝖔𝖙𝗩𝟮",
+  "prefix": "=",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
