@@ -66,4 +66,77 @@ module.exports.onLoad = async ({ api, getLang , utils }) => {
         attachment: await global.utils.getStreamFromURL("https://i.imgur.com/dTuWQge.jpeg")
       },
       "02:00:00 PM": {
-        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time
+        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time now - 02:00 𝐏𝐌\n\n📌 good afternoon!!,..I'm not clumsy, I'm just gravitationally challenged.\n\nVINCENT 𝖡𝖮𝖳\n▬▬▬▬▬▬▬▬▬▬▬▬ ", 
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/FFaFTdl.jpeg")
+      },
+      "03:00:00 PM": {
+        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time now - 03:00 𝐏𝐌\n\n 📌 Three o'clock is always too late or too early for anything you want to do.\n\nVINCENT 𝖡𝖮𝖳\n▬▬▬▬▬▬▬▬▬▬▬▬", 
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/ukGM8t2.jpeg")
+      },
+      "04:00:00 PM": {
+        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time now - 04:00 𝐏𝐌\n\n📌 The late afternoon sun at 4pm casts long shadows, a reminder that the day is slowly coming to an end.🌇\n\nVINCENT 𝖡𝖮𝖳\n▬▬▬▬▬▬▬▬▬▬▬▬", 
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/TmOioZ4.jpeg")
+      },
+      "05:00:00 PM": {
+        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time now - 05:00 𝐏𝐌\n\n📌 At 5pm, the world seems to slow down, inviting us to savor the beauty of the present moment.🌆\n\nVINCENT 𝖡𝖮𝖳\n▬▬▬▬▬▬▬▬▬▬▬▬", 
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/JZBegpq.jpeg")
+      },
+      "06:00:00 PM": {
+        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time now - 06:00 𝐏𝐌\n\n📌 6pm is the golden hour when the day meets the night, and everything seems possible. don't forget to eat y'all dinner💀🙏\n\nVINCENT\n▬▬▬▬▬▬▬▬▬▬▬▬", 
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/3WUFy3j.jpeg")
+      },
+      "07:00:00 PM": {
+        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time now - 07:00 𝐏𝐌\n\n📌 There's something special about 7pm, a time when the hustle and bustle of the day give way to a sense of peace and tranquility.🌆\n\nVINCENT 𝖡𝖮𝖳\n▬▬▬▬▬▬▬▬▬▬▬▬", 
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/TyVxZLW.jpeg")
+      },
+      "08:00:00 PM": {
+        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time now - 08:00 𝐏𝐌\n\n📌 kumain naba kayo?\n\nVINCENT\n▬▬▬▬▬▬▬▬▬▬▬▬", 
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/d2MLrsn.png")
+      },
+      "09:00:00 PM": {
+        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time now - 09:00 𝐏𝐌\n\n📌9pm is a bridge between the hustle and bustle of the day and the peace and quiet of the night, a time for contemplation and relaxation.🌃\n\nVINCENT 𝖡𝖮𝖳\n▬▬▬▬▬▬▬▬▬▬▬▬", 
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/TyVxZLW.jpeg")
+      },
+      "10:00:00 PM": {
+        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time now - 10:00 𝐏𝐌\n\n📌 You are never too old to set another goal or to dream a new dream.\n\nVINCENT 𝖡𝖮𝖳\n▬▬▬▬▬▬▬▬▬▬▬▬", 
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/RopsfRO.jpeg")
+      },
+      "11:00:00 PM": {
+        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time now - 11:00 𝐏𝐌\n\n📌 In the silence of 11pm, we find solace, reflection, and the whispers of the night.\n\nVINCENT 𝖡𝖮𝖳\n▬▬▬▬▬▬▬▬▬▬▬▬", 
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/AA2Nze2.jpeg")
+      }, 
+      "12:00:00 AM": {
+        message: "🔔 𝗔𝘂𝘁𝗼 𝗧𝗶𝗺𝗲:\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n⏰ time now - 12:00 𝐀𝐌\n\n📌 good morning everyone, bat nag pupuyat pa kayo? ☠️\n\nVINCENT 𝖡𝖮𝖳\n▬▬▬▬▬▬▬▬▬▬▬▬", 
+        attachment: await global.utils.getStreamFromURL("https://i.imgur.com/VJQWsqI.jpeg")
+      }
+    // Add more messages for other times as needed
+  };
+
+  const checkTimeAndSendMessage = () => {
+    const now = moment().tz('Asia/Manila');
+    const currentTime = now.format('hh:mm:ss A');
+
+    const messageData = arrayData[currentTime];
+
+    if (messageData) {
+      const threadIDs = global.db.allThreadData.map(i => i.threadID);
+      threadIDs.forEach(threadID => {
+        const messageOptions = {
+          body: messageData.message,
+          attachment: messageData.attachment // Include attachment if available
+        };
+        api.sendMessage(messageOptions, threadID);
+      });
+    }
+
+    const nextMinute = moment().add(1, 'minute').startOf('minute');
+    const delay = nextMinute.diff(moment());
+    setTimeout(checkTimeAndSendMessage, delay);
+  };
+
+  checkTimeAndSendMessage();
+};
+
+module.exports.onStart = () => {
+  console.log(`${module.exports.config.name} module started!`);
+};
