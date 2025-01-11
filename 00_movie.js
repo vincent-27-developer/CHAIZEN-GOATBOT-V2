@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
     config: {
         name: "movie",
-        aliases: ['movieinfo'],
+        aliases: ["mv"],
         author: "Vincent Armenion",
         version: "1.0",
         shortDescription: "Get information about a movie",
