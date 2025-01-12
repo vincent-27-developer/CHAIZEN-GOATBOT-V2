@@ -4,8 +4,8 @@ const exec = util.promisify(require('child_process').exec);
 
 module.exports = {
   config: {
-    name: "uptime8",
-    aliases: ["upt8"],
+    name: "uptime4",
+    aliases: ["upt4"],
     version: "1.0",
     author: "armenion",
     role: 0,
