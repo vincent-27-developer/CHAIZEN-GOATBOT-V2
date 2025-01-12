@@ -1,4 +1,4 @@
-=module.exports = {
+module.exports = {
   config: {
     name: "speed test",
     aliases: ["ms"],
