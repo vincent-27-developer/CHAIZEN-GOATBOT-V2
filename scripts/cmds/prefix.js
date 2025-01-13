@@ -1,6 +1,7 @@
 module.exports = {
  config: {
 	 name: "prefix",
+	 aliases: ["p", "prefix"],
 	 version: "1.0",
 	 author: "Vincent Armenion",
 	 countDown: 5,
