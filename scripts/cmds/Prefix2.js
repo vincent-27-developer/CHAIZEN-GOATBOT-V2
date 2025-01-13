@@ -4,8 +4,8 @@ const { utils } = global;
 module.exports = {
 	config: {
 		name: "prefix2",
-	  aliases: ["p", "ptefix",]
-    version: "1.4",
+		aliases: ["p"],
+		version: "1.4",
 		author: "Vincent",
 		countDown: 5,
 		role: 0,
