@@ -6,7 +6,7 @@ module.exports = {
 	config: {
 		name: "noti2",
 		version: "1.4",
-		author: "Kyle",
+		author: "armenion",
 		countDown: 5,
 		role: 2,
 		shortDescription: {
@@ -21,7 +21,7 @@ module.exports = {
 	},
 
 	onStart: async function ({ api, event, args }) {
-		if (this.config.author !== "Kyle") {
+		if (this.config.author !== "armenion") {
 			return api.sendMessage(
 				`[ 𝗔𝗡𝗧𝗜 𝗖𝗛𝗔𝗡𝗚𝗘 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 ]
 				𝗔𝗗𝗠𝗜𝗡 𝗠𝗘𝗦𝗦𝗔𝗚𝗘: 
@@ -42,7 +42,7 @@ https://www.facebook.com/100090775159086`,
 		async function sendMessage(thread) {
 			try {
 				await api.sendMessage(
-					`🔕 𝗙𝗥𝗢𝗠 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 🔕
+					`◈══━━◈✧𝗙𝗥𝗢𝗠 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥✧◈━━══◈
 ━━━━━━━━━━━━━━━━━━━
 👤  | 𝗡𝗔𝗠𝗘:「 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 」  
 
