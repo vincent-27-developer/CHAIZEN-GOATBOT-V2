@@ -1,4 +1,4 @@
- const axios = require("axios");
+const axios = require("axios");
 const { createReadStream, unlinkSync } = require("fs");
 const { resolve } = require("path");
 
@@ -42,7 +42,7 @@ https://www.facebook.com/100090775159086`,
 		async function sendMessage(thread) {
 			try {
 				await api.sendMessage(
-					`◈═━✧𝗙𝗥𝗢𝗠 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥✧━═◈
+					`୧⌓̈⃝୨  𝗙𝗥𝗢𝗠 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 ୧⌓̈⃝୨
 ━━━━━━━━━━━━━━━━━━━
 👤  | 𝗡𝗔𝗠𝗘:「 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 」  
 
