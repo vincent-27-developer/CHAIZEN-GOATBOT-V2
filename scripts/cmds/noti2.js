@@ -1,4 +1,4 @@
-const axios = require("axios");
+ const axios = require("axios");
 const { createReadStream, unlinkSync } = require("fs");
 const { resolve } = require("path");
 
@@ -6,7 +6,7 @@ module.exports = {
 	config: {
 		name: "noti2",
 		version: "1.4",
-		author: "Armenion Vincent",
+		author: "Kyle",
 		countDown: 5,
 		role: 2,
 		shortDescription: {
@@ -29,7 +29,7 @@ module.exports = {
 				𝗠𝗘𝗠𝗕𝗘𝗥 𝗠𝗘𝗦𝗦𝗔𝗚𝗘:
 				𝚃𝚑𝚒𝚜 𝚋𝚘𝚝 𝚌𝚛𝚎𝚊𝚝𝚘𝚛 𝚒𝚜 𝚊 𝚌𝚑𝚊𝚗𝚐𝚎 𝚌𝚛𝚎𝚍𝚒𝚝𝚘𝚛 𝚔𝚊𝚢𝚊 𝚋𝚎 𝚊𝚠𝚊𝚛𝚎 𝚗𝚎𝚡𝚝 𝚝𝚒𝚖𝚎.
 				𝗢𝗪𝗡𝗘𝗥 𝗢𝗙 𝗧𝗛𝗜𝗦 𝗖𝗢𝗠𝗠𝗔𝗡𝗗: 
-https://www.facebook.com/100052395031835`,
+https://www.facebook.com/100090775159086`,
 				event.threadID,
 				event.messageID
 			);
@@ -44,7 +44,9 @@ https://www.facebook.com/100052395031835`,
 				await api.sendMessage(
 					`❗❗𝗔𝗡𝗡𝗢𝗨𝗡𝗖𝗘𝗠𝗘𝗡𝗧 𝗙𝗥𝗢𝗠 𝗢𝗪𝗡𝗘𝗥❗❗
 ━━━━━━━━━━━━━━━━━━━
-👤  | 𝗡𝗔𝗠𝗘: 「𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡」 (https://www.facebook.com/profile.php?id=100090775159086)
+👤  | 𝗡𝗔𝗠𝗘:「 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 」  
+
+(https://www.facebook.com/profile.php?id=100090775159086)
 ━━━━━━━━━━━━━━━━━━━
 ⚜️𝗚𝗥𝗢𝗨𝗣 𝗡𝗔𝗠𝗘⚜️:『${thread.name}』
 ⚜️𝗚𝗥𝗢𝗨𝗣 𝗜𝗗❍:『${thread.threadID}』
