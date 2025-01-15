@@ -22,7 +22,7 @@ module.exports = {
 				if (!content) return api.sendMessage("𝙋𝙡𝙚𝙖𝙨𝙚 𝙋𝙧𝙤𝙫𝙞𝙙𝙚 𝙮𝙤𝙪𝙧 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣.\n\n𝗘𝗫𝗔𝗠𝗣𝗟𝗘: 𝘼𝙞 𝙬𝙝𝙤 𝙞𝙨 𝙑𝙞𝙣𝙘𝙚𝙣𝙩 𝘼𝙧𝙢𝙚𝙣𝙞𝙤𝙣?", event.threadID, event.messageID);
 
 				try {
-						api.sendMessage("🔍| 𝘼𝙞 𝙞𝙨 𝙎𝙚𝙖𝙧𝙘𝙝𝙞𝙣𝙜 𝙖𝙣𝙨𝙬𝙚𝙧 𝙛𝙤𝙧 𝙮𝙤𝙪𝙧 𝙖𝙣𝙨𝙬𝙚𝙧 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣...", event.threadID, event.messageID);
+						api.sendMessage("🔍| 𝘾𝙝𝙖𝙞𝙯𝙚𝙣 𝙕𝙚𝙚 𝙎𝙚𝙖𝙧𝙘𝙝𝙞𝙣𝙜 𝙖𝙣𝙨𝙬𝙚𝙧 𝙛𝙤𝙧 𝙮𝙤𝙪𝙧 𝙖𝙣𝙨𝙬𝙚𝙧 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣...", event.threadID, event.messageID);
 
 						const response = await axios.get(apiUrl);
 						const { request_count, airesponse, image_url } = response.data;
