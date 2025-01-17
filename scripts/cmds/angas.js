@@ -14,7 +14,7 @@ module.exports = {
  onChat: async function({ event, message, getLang }) {
  if (event.body && event.body.toLowerCase() === "angas") {
  return message.reply({
- body: "𝗞𝗮𝗹𝗺𝗮 𝗸𝗮 𝗹𝗮𝗻𝗴 𝗹𝗼𝘀𝗱 𝗮𝗸𝗼 𝗹𝗮𝗻𝗴 𝘁𝗼 𝗨𝘄𝗼 𝗨𝘄𝗼 🔥",
+ body: "𝗞𝗮𝗹𝗺𝗮 𝗸𝗮 𝗹𝗮𝗻𝗴 𝗹𝗼𝗱𝘀 𝗮𝗸𝗼 𝗹𝗮𝗻𝗴 𝘁𝗼 𝗨𝘄𝗼 𝗨𝘄𝗼 🔥",
  attachment: await global.utils.getStreamFromURL("https://i.imgur.com/Ye1P63Y.mp4")
  });
  }
